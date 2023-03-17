@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - main is a fun
- * return: always success
+ * main - Entry point
+ * Return: always
  */
 int main(void)
 {
