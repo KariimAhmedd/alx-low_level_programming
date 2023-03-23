@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * main - Entry point
+ * print_alphabet - prints the alpha
+ *
  * Return: always
  */
+
 void print_alphabet(void)
 {
 	int i;
@@ -11,5 +13,5 @@ void print_alphabet(void)
 	{
 		_putchar(i);
 	}
-	_putchar('\n);
+	_putchar('\n');
 }
